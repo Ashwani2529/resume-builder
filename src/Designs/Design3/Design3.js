@@ -40,8 +40,8 @@ const Design3 = () => {
       fontSizeOption === "small"
         ? "30px"
         : fontSizeOption === "large"
-        ? "40px"
-        : "35px",
+        ? "30px"
+        : "20px",
   };
   const fontSizeHeading = {
     fontSize:
